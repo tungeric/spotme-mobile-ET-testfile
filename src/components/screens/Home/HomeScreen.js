@@ -3,7 +3,7 @@ import { View, Text, Button } from 'react-native'
 
 import styles from '../../../styles/styles'
 
-export default class WelcomeScreen extends React.Component {
+export default class HomeScreen extends React.Component {
 
   render() {
     const { navigate } = this.props.navigation;
